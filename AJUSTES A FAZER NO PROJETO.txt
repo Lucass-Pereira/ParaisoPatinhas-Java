@@ -1,0 +1,29 @@
+ - implantar o bd de vcs ou complementar os que ja estao ai.
+
+ - Programar itens "Excluir Animal" e "Alterar dados do Animal" do menu Bar
+(tive problemas em faze-los buscar as informacoes dos animais no bd)
+
+ - Ao clicar no excluir um cadastro de cliente, se digitar um usuario qualquer,
+mesmo que nao esteja na tabela, ele direciona a tela de cliente, sendo que
+deveria retornar a mensagem "Usuario nao cadastrado" (uma falha nao tao
+grave, pode ate ser que de para deixar passar)
+
+ - Adicionar mais animais ao projeto e se possivel(gastei muito tempo e
+nao consegui) fazer funcionar de forma correta os botoes "caes" e "gatos" 
+senao elimina-los de vez e alterar o nome do botao "todos animais" para
+"ir para animais" ou coisa do tipo
+
+ - se der, na "TelaPituca", assim como na tela dos animais que vcs irao add depois
+colocar as labels com as informacoes daquele animal que esta trazidas pelo bd
+
+- corrigir os erro de acentuacao (meu teclado e americano) nao tem cedilha nem
+acentos
+
+ainda e bastante coisa pra fazer, mas a maioria que restou e copia e cola
+
+Qualquer duvida, ou ajuda que eu possa fornecer, me mandem msg no whatsapp
+vou ficar com o celular quase o tempo todo(se tiver sinal).
+
+Valeu!
+  
+
